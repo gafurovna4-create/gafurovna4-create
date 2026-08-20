@@ -62,21 +62,16 @@
 
   <br><br>
 
-  <!-- 4. GITHUB STATS & VISUALS (O'lchamlari kichraytirildi va videoroliklar to'g'irlandi) -->
-  <div style="width: 85%; border: 2px solid #FFB7C5; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1f29 100%); box-shadow: 0 0 20px rgba(255,183,197,0.3); transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-    <h3 style="color: #FFB7C5;">🌸 ✧ GitHub Stats & Activity ✧ 🌸</h3>
-    <br>
-    <p align="center">
-      <!-- 1-rasm -->
-      <img src="https://i.pinimg.com/1200x/df/b7/b1/dfb7b1d14760eee3c8318d7b2f48726e.jpg" width="70%" style="border-radius: 10px; margin-bottom: 15px;" />
-      <br>
-      <!-- 2-rasm (Oldin video bo'lgani uchun ochilmayotgan havolalar to'g'irlandi / o'lchami moslashtirildi) -->
-      <img src="https://i.pinimg.com/736x/8d/d5/90/8dd590c681878d6b991b4028a77a9420.jpg" width="70%" style="border-radius: 10px; margin-bottom: 15px;" />
-      <br>
-      <!-- 3-rasm -->
-      <img src="https://i.pinimg.com/736x/67/68/7c/67687c7e09647209778263595166412e.jpg" width="70%" style="border-radius: 10px;" />
-    </p>
-  </div>
+ <!-- 🌸 GITHUB STATS & ACTIVITY QISMI -->
+<div align="center" style="width: 85%; margin: 0 auto; border: 2px solid #FFB7C5; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1f29 100%); box-shadow: 0 0 20px rgba(255,183,197,0.3);">
+  <h3 style="color: #FFB7C5;">🌸 ✧ My Aesthetic Workspace ✧ 🌸</h3>
+  <br>
+  <p align="center">
+    <!-- Faylni repoga yuklagach, quyidagi src ga o'sha faylning havolasini qo'yasiz -->
+    <img src="https://raw.githubusercontent.com/gafurovna4-create/gafurovna4-create/main/itgirlllls.gif" width="70%" style="border-radius: 15px;" />
+  </p>
+  <p style="color: #8b949e; font-size: 14px; margin-top: 10px;"><i>"Designing the future, one pixel at a time."</i></p>
+</div>
 
 </div>
 
