@@ -62,16 +62,14 @@
 
   <br><br>
 
- <!-- 🌸 GITHUB STATS & ACTIVITY QISMI -->
-<div align="center" style="width: 85%; margin: 0 auto; border: 2px solid #FFB7C5; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1f29 100%); box-shadow: 0 0 20px rgba(255,183,197,0.3);">
-  <h3 style="color: #FFB7C5;">🌸 ✧ My Aesthetic Workspace ✧ 🌸</h3>
-  <br>
-  <p align="center">
-    <!-- Faylni repoga yuklagach, quyidagi src ga o'sha faylning havolasini qo'yasiz -->
-    <img src="https://raw.githubusercontent.com/gafurovna4-create/gafurovna4-create/main/itgirlllls.gif" width="70%" style="border-radius: 15px;" />
-  </p>
-  <p style="color: #8b949e; font-size: 14px; margin-top: 10px;"><i>"Designing the future, one pixel at a time."</i></p>
-</div>
+  <!-- 4. GITHUB STATS & GIF -->
+  <div style="width: 85%; border: 2px solid #FFB7C5; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1f29 100%); box-shadow: 0 0 20px rgba(255,183,197,0.3); transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+    <h3 style="color: #FFB7C5;">🌸 ✧ My Aesthetic Workspace ✧ 🌸</h3>
+    <br>
+    <p align="center">
+      <img src="./itgirlllls.gif" width="70%" style="border-radius: 15px;" />
+    </p>
+  </div>
 
 </div>
 
