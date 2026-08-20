@@ -29,7 +29,7 @@
   <div style="width: 85%; border: 2px solid #FFB7C5; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1f29 100%); box-shadow: 0 0 20px rgba(255,183,197,0.3);">
     <h3 style="color: #FFB7C5;">✨ ✧ Tech Stack & Tools ✧ ✨</h3>
     <p align="center" style="margin-top: 15px;">
-[    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-6px) scale(1.1)'" onmouseout="this.style.transform='translateY(0) scale(1)'"/>   
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-6px) scale(1.1)'" onmouseout="this.style.transform='translateY(0) scale(1)'"/>   
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-6px) scale(1.1)'" onmouseout="this.style.transform='translateY(0) scale(1)'"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-6px) scale(1.1)'" onmouseout="this.style.transform='translateY(0) scale(1)'"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-6px) scale(1.1)'" onmouseout="this.style.transform='translateY(0) scale(1)'"/>
@@ -62,8 +62,8 @@
     <h3 style="color: #FFB7C5;">🌸 ✧ GitHub Stats & Activity ✧ 🌸</h3>
     <br>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=gafurovna4-create&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0d1117" width="100%" style="border-radius: 10px;" />
-    </p>
+[      <img src="https://github-readme-stats.vercel.app/api?username=gafurovna4-create&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0d1117" width="100%" style="border-radius: 10px;" />
+](https://i.pinimg.com/1200x/df/b7/b1/dfb7b1d14760eee3c8318d7b2f48726e.jpg)    </p>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gafurovna4-create&layout=compact&theme=rose_pine&hide_border=true&bg_color=0d1117" width="100%" style="border-radius: 10px;" />
     </p>
