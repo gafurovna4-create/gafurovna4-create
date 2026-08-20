@@ -1,6 +1,6 @@
 # MuniraCodes
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=38B2AC&vCenter=true&random=false&lines=Hello+World!+👋;I'm+Munira+Gafurova;Welcome+多様+to+my+creative+space!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=38B2AC&vCenter=true&random=false&lines=Hello+World!+👋;I'm+Munira+Gafurova;Welcome+to+my+creative+space!" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -27,10 +27,15 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
 </p>
 
+---
+
+### 🌸 My Contributions & Activity Map:
 <p align="center">
-  <a href="https://github.com/MuniraCodes">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MuniraCodes&layout=compact&theme=nord" alt="WakaTime Stats" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=MuniraCodes&theme=nord" width="100%" alt="Animated Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/productive-time?username=MuniraCodes&theme=nord&utcOffset=5" width="70%" alt="Animated Productive Time"/>
 </p>
 
 ---
