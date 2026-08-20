@@ -62,20 +62,13 @@
 
   <br><br>
 
-  <!-- 4. GITHUB STATS & GIF -->
-  <div style="width: 85%; border: 2px solid #FFB7C5; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1f29 100%); box-shadow: 0 0 20px rgba(255,183,197,0.3);">
-    <h3 style="color: #FFB7C5;">🌸 ✧ My Aesthetic Workspace ✧ 🌸</h3>
+<!-- 4. GITHUB STATS & GIF -->
+  <div style="width: 70%; border: 2px solid #FFB7C5; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1f29 100%); box-shadow: 0 0 20px rgba(255,183,197,0.3); margin: 0 auto;">
+    <h3 style="color: #FFB7C5;" align="center">🌸 ✧ My Aesthetic Workspace ✧ 🌸</h3>
     <br>
     <p align="center">
-      <img src="./itgirlllls.gif" width="450px" style="border-radius: 15px;" />
+      <img src="https://i.pinimg.com/736x/c1/03/08/c10308bc207bd88fb54f70c19a086608.jpg" width="180px" style="border-radius: 10px;" />
     </p>
   </div>
 
 </div>
-
-<br><br>
-
-<!-- 🌸 PASTDAGI GULLI ANIMATSIYALI FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=255,183,197,255,223,211&height=120&section=footer&text=🌸%20Keep%20Coding%20%26%20Blooming!%20✨&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%" />
-</p>
