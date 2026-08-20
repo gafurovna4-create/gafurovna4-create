@@ -55,7 +55,7 @@
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/gafurovna4-create" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="transition: transform 0.3s; border-radius: 8px;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor5=white" style="transition: transform 0.3s; border-radius: 8px;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>
       </a>
     </p>
   </div>
@@ -67,7 +67,8 @@
     <h3 style="color: #FFB7C5;">🌸 ✧ My Aesthetic Workspace ✧ 🌸</h3>
     <br>
     <p align="center">
-      <img src="./itgirlllls.gif" width="70%" style="border-radius: 15px;" />
+      <!-- Vertikal GIF juda katta chiqib ketmasligi uchun width ni 450px ga chekladik -->
+      <img src="itgirlllls.gif" width="450px" style="border-radius: 15px;" />
     </p>
   </div>
 
