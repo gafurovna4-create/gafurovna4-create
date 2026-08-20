@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=255,183,197,255,223,211&height=180&section=header&text=🌸%20Welcome%20to%20Munira's%20World!%20✨&fontSize=30&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
-<!-- 🌸 HARAKATLANUVCHI Y YOZUVI (TYPING ANIMATION) -->
+<!-- 🌸 HARAKATLANUVCHI YOZUVI (TYPING ANIMATION) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FFB7C5&vCenter=true&random=false&lines=🌸+Frontend+Developer;🌷+JavaScript+%26+React+Lover;✨+Creating+Aesthetic+UIs!" alt="Typing Animation" />
 </p>
@@ -41,11 +41,11 @@
 
   <br><br>
 
-  <!-- 3. LET'S CONNECT (Bosganda yoki ustiga borganda porlaydigan kichik tugmalar) -->
+  <!-- 3. LET'S CONNECT (Telegram va GitHub tugmalari) -->
   <div style="width: 85%;">
     <h3 style="color: #FFB7C5; margin-bottom: 12px;">🌷 ✧ Let's Connect ✧ 🌷</h3>
     <p align="center">
-      <a href="https://t.me/your_username" target="_blank">
+      <a href="https://t.me/B_M_Gafurovna" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="transition: transform 0.3s; border-radius: 8px;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
