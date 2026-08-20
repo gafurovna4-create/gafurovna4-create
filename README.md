@@ -62,8 +62,8 @@
     <h3 style="color: #FFB7C5;">🌸 ✧ GitHub Stats & Activity ✧ 🌸</h3>
     <br>
     <p align="center">
-[      <img src="https://github-readme-stats.vercel.app/api?username=gafurovna4-create&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0d1117" width="100%" style="border-radius: 10px;" />
-](https://i.pinimg.com/1200x/df/b7/b1/dfb7b1d14760eee3c8318d7b2f48726e.jpg)    </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=gafurovna4-create&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0d1117" width="100%" style="border-radius: 10px;" />
+(https://i.pinimg.com/1200x/df/b7/b1/dfb7b1d14760eee3c8318d7b2f48726e.jpg)    </p>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gafurovna4-create&layout=compact&theme=rose_pine&hide_border=true&bg_color=0d1117" width="100%" style="border-radius: 10px;" />
     </p>
